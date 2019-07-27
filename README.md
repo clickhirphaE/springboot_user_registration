@@ -7,3 +7,4 @@
 - Adding Social Sign In to a Spring MVC Web Application: Configuration https://www.petrikainulainen.net/programming/spring-framework/adding-social-sign-in-to-a-spring-mvc-web-application-configuration/
 -  https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/
 - https://www.mkyong.com/spring-boot/spring-boot-spring-security-thymeleaf-example/
+- https://mvnrepository.com/artifact/org.springframework.security
