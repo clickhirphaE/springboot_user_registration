@@ -8,3 +8,4 @@
 -  https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/
 - https://www.mkyong.com/spring-boot/spring-boot-spring-security-thymeleaf-example/
 - https://mvnrepository.com/artifact/org.springframework.security
+- Springboot-thymeleaf Pagination and Bootstrap Dynamic Modals https://youtube.com/watch?v=lIgFe20dYq4
